@@ -1,0 +1,4 @@
+NewString
+=========
+
+String
